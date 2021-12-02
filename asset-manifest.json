@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/erc20gen/static/css/main.a617e044.chunk.css",
-    "main.js": "/erc20gen/static/js/main.bbc694df.chunk.js",
-    "main.js.map": "/erc20gen/static/js/main.bbc694df.chunk.js.map",
+    "main.js": "/erc20gen/static/js/main.0f87824a.chunk.js",
+    "main.js.map": "/erc20gen/static/js/main.0f87824a.chunk.js.map",
     "runtime-main.js": "/erc20gen/static/js/runtime-main.1a9d1a9c.js",
     "runtime-main.js.map": "/erc20gen/static/js/runtime-main.1a9d1a9c.js.map",
-    "static/js/2.34ad61c6.chunk.js": "/erc20gen/static/js/2.34ad61c6.chunk.js",
-    "static/js/2.34ad61c6.chunk.js.map": "/erc20gen/static/js/2.34ad61c6.chunk.js.map",
+    "static/js/2.f8236147.chunk.js": "/erc20gen/static/js/2.f8236147.chunk.js",
+    "static/js/2.f8236147.chunk.js.map": "/erc20gen/static/js/2.f8236147.chunk.js.map",
     "index.html": "/erc20gen/index.html",
     "static/css/main.a617e044.chunk.css.map": "/erc20gen/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.34ad61c6.chunk.js.LICENSE.txt": "/erc20gen/static/js/2.34ad61c6.chunk.js.LICENSE.txt"
+    "static/js/2.f8236147.chunk.js.LICENSE.txt": "/erc20gen/static/js/2.f8236147.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1a9d1a9c.js",
-    "static/js/2.34ad61c6.chunk.js",
+    "static/js/2.f8236147.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.bbc694df.chunk.js"
+    "static/js/main.0f87824a.chunk.js"
   ]
 }
